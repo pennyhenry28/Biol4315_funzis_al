@@ -38,3 +38,12 @@ LOADING GGPLOT2 AND PLOTTIN SPEED VS DIST FROM CARS
 library(ggplot2)
 ggplot(cars)
 ```
+
+```{r funannotate, eval=FALSE}
+docker pull nextgenusfs/funannotate:v1.8.17
+```
+
+```{r sequali_env3, eval=FALSE}
+conda activate sequali_env3
+```
+
